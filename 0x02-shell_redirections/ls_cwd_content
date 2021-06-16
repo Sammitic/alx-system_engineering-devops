@@ -1,0 +1,24 @@
+total 88
+drwxr-xr-x 2 sicelo sicelo 4096 Jun 15 19:14 .
+drwxr-xr-x 6 sicelo sicelo 4096 Jun 15 14:48 ..
+-rwxr-xr-x 1 sicelo sicelo   33 Jun 15 15:45 0-hello_world
+-rwxr-xr-x 1 sicelo sicelo   48 Jun 15 14:26 10-no_more_js
+-rwxr-xr-x 1 sicelo sicelo   45 Jun 15 14:25 11-directories
+-rwxr-xr-x 1 sicelo sicelo   26 Jun 15 14:30 12-newest_files
+-rwxr-xr-x 1 sicelo sicelo   28 Jun 15 14:52 13-unique
+-rwxr-xr-x 1 sicelo sicelo   37 Jun 15 14:53 14-findthatword
+-rwxr-xr-x 1 sicelo sicelo   42 Jun 15 14:57 15-countthatword
+-rwxr-xr-x 1 sicelo sicelo   40 Jun 15 14:59 16-whatsnext
+-rwxr-xr-x 1 sicelo sicelo   31 Jun 15 15:54 1-confused_smiley
+-rwxr-xr-x 1 sicelo sicelo   30 Jun 14 17:27 2-hellofile
+-rwxr-xr-x 1 sicelo sicelo   40 Jun 14 18:58 3-twofiles
+-rwxr-xr-x 1 sicelo sicelo   30 Jun 14 19:09 4-lastlines
+-rwxr-xr-x 1 sicelo sicelo   30 Jun 14 19:13 5-firstlines
+-rwxr-xr-x 1 sicelo sicelo   27 Jun 15 19:13 6-third_line
+-rwxr-xr-x 1 sicelo sicelo   90 Jun 15 19:09 7-file
+-rwxr-xr-x 1 sicelo sicelo   37 Jun 15 14:14 8-cwd_state
+-rwxr-xr-x 1 sicelo sicelo   36 Jun 15 14:18 9-duplicate_last_line
+-rw-r--r-- 1 sicelo sicelo   17 Jun 15 19:10 \*\\'Holberton School''\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 sicelo sicelo 1790 Jun 14 19:59 iacta
+-rw-r--r-- 1 sicelo sicelo  171 Jun 15 18:46 list
+-rw-r--r-- 1 sicelo sicelo    0 Jun 15 19:14 ls_cwd_content
